@@ -73,6 +73,6 @@
         </property>
         <property>
                 <name>es.resource</name>
-                <value>coupon_info/doc</value>
+                <value>wmp_coupon_alert/doc</value>
         </property>
 </configuration>
