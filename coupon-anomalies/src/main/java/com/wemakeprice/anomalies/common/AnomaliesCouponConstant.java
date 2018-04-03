@@ -34,7 +34,7 @@ public class AnomaliesCouponConstant {
 
     /** Elasticsearch Setting Start.*/
     /** ES_CLUSTER_NAME */
-    public static final String ES_CLUSTER_NAME_ = "es.cluster.name";
+    public static final String ES_CLUSTER_NAME = "es.cluster.name";
     /** DEFAULT_CLUSTER_NAME. */
     public static final String DEFAULT_CLUSTER_NAME = "wmp-cluster";
     /** ES_NODES */
